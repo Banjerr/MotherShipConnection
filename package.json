@@ -1,0 +1,27 @@
+{
+  "name": "mothership-connection-panel",
+  "version": "1.0.0",
+  "description": "cool LED, re-worked with Johnny-Five/Node",
+  "main": "mothership.js",
+  "dependencies": {
+    "johnny-five": "^0.10.6",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Banjerr/MotherShipConnection.git"
+  },
+  "keywords": [
+    "arduino"
+  ],
+  "author": "Ben Redden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Banjerr/MotherShipConnection/issues"
+  },
+  "homepage": "https://github.com/Banjerr/MotherShipConnection#readme"
+}
